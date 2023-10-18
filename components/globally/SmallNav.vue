@@ -50,7 +50,7 @@
               right: 6px;
               width: 22px;
               height: 22px;
-              background: rgb(35, 76, 239);
+              background: rgb(35, 76, 238);
               color: white;
               display: flex;
               justify-content: center;
