@@ -1,0 +1,12 @@
+mobile category: https://new-ella-demo.myshopify.com/cdn/shop/files/mobile-phones.png?v=10616357514144629263
+laptop category: https://new-ella-demo.myshopify.com/cdn/shop/files/laptops-tablets.png?v=17546078654541140209
+tv category: https://new-ella-demo.myshopify.com/cdn/shop/files/televisions.png?v=792225267698738137
+pc category: https://new-ella-demo.myshopify.com/cdn/shop/files/pcs-accessories.png?v=7913320403362682840
+audio & videon category: https://new-ella-demo.myshopify.com/cdn/shop/files/audio-video.png?v=17118273463527967791
+gaming category: https://new-ella-demo.myshopify.com/cdn/shop/files/gaming-accessories.png?v=5365032838061682635
+home appliances category: https://new-ella-demo.myshopify.com/cdn/shop/files/home-appliances.png?v=4122646624966862882
+kitchen category: https://new-ella-demo.myshopify.com/cdn/shop/files/kitchen-appliances.png?v=912885117927234410
+cameras category: https://new-ella-demo.myshopify.com/cdn/shop/files/cameras.png?v=10468174360605840515
+consume cat: https://new-ella-demo.myshopify.com/cdn/shop/files/consumables.png?v=1604898607781595964
+smart cat: https://new-ella-demo.myshopify.com/cdn/shop/files/smart-homes.png?v=11511407578445752828
+accessories cat: https://new-ella-demo.myshopify.com/cdn/shop/files/accessories.png?v=16090558546215869367
